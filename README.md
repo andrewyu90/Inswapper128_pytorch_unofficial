@@ -24,3 +24,4 @@ Star this project if you think you got help from this repository :)
 
 # Example of test results
 
+![Alt text](./example_output.png)
