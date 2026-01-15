@@ -21,3 +21,6 @@ This is the Inswapper PyTorch version, which is 99.999999% the same as the Inswa
 
 Star this project if you think you got help from this repository :)
 
+
+# Example of test results
+
